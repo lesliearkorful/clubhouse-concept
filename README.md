@@ -1,16 +1,31 @@
-# clubhouse
+# Clubhouse Concept
 
-A new Flutter project.
+A quick flutter clone. I miss doing these 😂
 
-## Getting Started
+I'll polish the code later.
 
-This project is a starting point for a Flutter application.
+## UI reference by [ZeezCrypto](https://twitter.com/ZeezCrypto)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/4087388/122645950-81a7c280-d10c-11eb-8217-68f04b2dfe10.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="https://pbs.twimg.com/media/E4QJcbPWUAchv-0?format=jpg&name=4096x4096" />
+    </td>
+    <td>
+      <img src="https://pbs.twimg.com/media/E4QJcbvXMAAhg44?format=jpg&name=4096x4096" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://pbs.twimg.com/media/E4QJccaWQA0yZsN?format=jpg&name=4096x4096" />
+    </td>
+    <td>
+      <img src="https://pbs.twimg.com/media/E4QJcdCWEAs1Q9q?format=jpg&name=4096x4096" />
+    </td>
+  </tr>
+</table>
+
